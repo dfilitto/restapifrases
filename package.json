@@ -1,0 +1,20 @@
+{
+  "name": "restapifrases",
+  "version": "1.0.0",
+  "description": "REST API que tem como objetivo interagir com um banco de frases",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfilitto/restapifrases.git"
+  },
+  "keywords": ["RESTAPI","API","dfilitto"],
+  "author": "Danilo Filitto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfilitto/restapifrases/issues"
+  },
+  "homepage": "https://github.com/dfilitto/restapifrases#readme"
+}
